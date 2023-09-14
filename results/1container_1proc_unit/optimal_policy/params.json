@@ -1,0 +1,16 @@
+{
+    "config": "1container_1proc_unit",
+    "n_hidden_layers": 0,
+    "n_neurons_hidden_layers": 5,
+    "step_size": 2,
+    "episodes_per_function_call": 1,
+    "pop_size": 9,
+    "best_solution": [
+        43.369383412622796,
+        19.841484013104086,
+        11.025440944435806,
+        11.911180232270862,
+        28.847471368174986,
+        0.7157219444798693
+    ]
+}
